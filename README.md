@@ -1,2 +1,2 @@
 # About-Me-Website
-This website about me and Second Work that I wrote.
+This website covered about me.
