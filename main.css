@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+img{
+  margin: 10px;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p{
+  padding: 20px;
+  font-size: 20px;
+}
+
+h3{
+  padding: 10px;
+  font-weight: 500;
+  color: #66BFBF;
+}
+
+h4{
+  margin: 20px;
+}
+
+a{
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+    color: #333;
+}
+
+h1{
+  margin: 20px;
+  color: #66BFBF;
+  line-height: 1.5;
+}
+.mainHeader{
+  font-size: 60px;
+}
+
+body{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color: #40514E;
+}
+
+.aboutMe{
+  margin: 100px 0;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 140px;
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px
+}
+
+.photoSkill{
+  width: 35%;
+  float: left;
+  margin-right: 20px;
+}
+
+.readingSkill{
+    width: 35%;
+    float: right;
+    margin-left: 20px;
+}
+
+p{
+  margin-top: 10px;
+}
+
+.myPhoto{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contant-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background: #5de8c5;
+  background-image: -webkit-linear-gradient(top, #5de8c5, #5de8c5);
+  background-image: -moz-linear-gradient(top, #5de8c5, #5de8c5);
+  background-image: -ms-linear-gradient(top, #5de8c5, #5de8c5);
+  background-image: -o-linear-gradient(top, #5de8c5, #5de8c5);
+  background-image: linear-gradient(to bottom, #5de8c5, #5de8c5);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.bottom-container{
+  margin: 100px auto 0 0;
+  padding: 20px;
+  background-color: #66BFBF;
+}
+
+
+/* .yellow{
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+}
+.blue{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  position: absolute;
+  left: 200px;
+}
+.red{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  position: absolute;
+  top: 400px;
+  left: 400px;
+} */
